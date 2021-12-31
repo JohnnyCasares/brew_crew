@@ -1,16 +1,8 @@
 # brew_crew
 
-A new Flutter project.
+In this new FLutter app I folowed the Net Ninja's Series on how to use firebase through flutter.
+The app allows users to choose how they would like their coffee and share it with other users within the app.
 
-## Getting Started
+## Video Walkthrough.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
