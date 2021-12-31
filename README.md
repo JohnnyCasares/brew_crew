@@ -5,4 +5,4 @@ The app allows users to choose how they would like their coffee and share it wit
 
 ## Video Walkthrough.
 
-
+<img src ="flutter_brew_crew.gif" width = 250>
